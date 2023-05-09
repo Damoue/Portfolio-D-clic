@@ -1,0 +1,238 @@
+body {
+
+    background: url(coh.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: static;
+}
+
+.ret {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+
+}
+
+.container {
+    display: flex;
+    position: fixed;
+    color: aliceblue;
+
+}
+
+
+.yy {
+    text-align: center;
+}
+
+.ok {
+    text-align: center;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.ko {
+    text-align: center;
+    color: white;
+    padding-bottom: 100px;
+}
+
+.dd {
+    text-align: center;
+}
+
+.bn {
+    background-color: #f70f0f;
+    height: 10px;
+    width: 200px;
+    margin: 0 auto -18px;
+}
+
+hr {
+    opacity: inherit;
+}
+
+.qq {
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid red;
+}
+
+.pn {
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid rosybrown;
+}
+
+.nn {
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid khaki;
+}
+
+.vn {
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid orangered;
+}
+
+.wn {
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid green;
+}
+
+.image {
+    float: right;
+    display: flex;
+}
+
+.fce {
+    width: auto;
+    height: 10px;
+}
+
+.mad {
+    width: 100%;
+    background-color: rgba(0, 0, 0.8);
+}
+
+.cc {
+    color: white;
+}
+
+.imageb {
+    display: flex;
+    justify-content: space-around;
+}
+
+.salif {
+    background-color: rgb(255, 0, 251);
+    margin-top: 290px
+}
+
+.is {
+    width: 1px;
+    height: 700px;
+    background-color: rgb(209, 12, 12);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: -35px;
+}
+
+
+.is span {
+    display: block;
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    position: relative;
+    right: 25px;
+    top: 90px;
+    border-radius: 50px;
+}
+
+.bon {
+    width: 25%;
+    height: 7px;
+    background-color: brown;
+    margin-left: 37%;
+    margin-bottom: -2%;
+}
+
+.cool {
+    width: 95%;
+    height: 2px;
+    background-color: brown;
+    margin: 2%;
+}
+
+.papa {
+
+    width: 500px;
+    height: 400px;
+    margin: 25px;
+
+}
+
+
+.mama {
+    width: 500px;
+    height: 400px;
+    margin: 25px;
+    margin-left: 80px;
+    margin-top: 200px;
+}
+
+
+
+.jn {
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid maroon;
+}
+
+.d5 {
+    text-align: center;
+}
+
+.d3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.d3 div {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+.d3 h1 {
+    text-align: center;
+    border-bottom: 2px solid red;
+    margin: 20px;
+}
+
+.d7 h1 {
+    border-bottom: 2px solid blue;
+}
+
+.d8 h1 {
+    border-bottom: 2px solid green;
+}
+
+.d9 h1 {
+    border-bottom: 2px solid yellow;
+}
+
+.d6 h1 {
+    border-bottom: 2px solid violet;
+
+}
+
+.fo {
+    text-align: center;
+    color: white;
+}
+
+nav {
+    background-color: transparent;
+}
